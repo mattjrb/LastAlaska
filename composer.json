@@ -1,10 +1,13 @@
 {
   "require": {
-    "symfony/http-foundation": "^3.4"
+    "symfony/http-foundation": "^3.4",
+    "twig/twig": "^2.4",
+    "symfony/yaml": "^3.4"
   },
   "autoload": {
     "psr-4": {
-      "App\\": "app"
+      "App\\": "app//",
+      "Controller\\": "src//Controller"
 
     }
   }
