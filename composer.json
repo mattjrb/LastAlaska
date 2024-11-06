@@ -1,7 +1,7 @@
 {
   "require": {
     "symfony/http-foundation": "^3.4",
-    "twig/twig": "^2.4",
+    "twig/twig": "^3.11",
     "symfony/yaml": "^3.4"
   },
   "autoload": {
